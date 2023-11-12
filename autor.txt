@@ -2,3 +2,4 @@ Auteur : Stega Patrick 24 rue voltaire
 Auteur 2 : personne
 auteur 3: quelqu'un
 auteur 4: lui
+auteur 6: autres
